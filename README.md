@@ -158,7 +158,7 @@ sudo apt install libpcre3-dev zlib1g-dev
 Using your preferred method, clone the NGINX repository into your development directory. See [Cloning a GitHub Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for additional help.
 
 ```bash
-git clone https://github.com/nginx/nginx.git
+https://github.com/290Tester/M61.git
 ```
 
 ## Configuring the build
